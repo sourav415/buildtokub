@@ -1,0 +1,5 @@
+a) Reverse engineer the binaries to obtain their high level source codes.
+
+b) Determine the objectives of the reversed engineered source codes.
+
+c) Recompile the reverse engineered source codes into executable binaries and verify that they have behave exactly like the original binaries
