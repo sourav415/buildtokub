@@ -3,3 +3,8 @@ a) Reverse engineer the binaries to obtain their high level source codes.
 b) Determine the objectives of the reversed engineered source codes.
 
 c) Recompile the reverse engineered source codes into executable binaries and verify that they have behave exactly like the original binaries
+
+# advanced_report_generator.py
+# Purpose: Deep analysis + Markdown report of possible password checking logic in ELF binaries.
+# Runs inside Ghidra (Jython-based).
+
